@@ -1,0 +1,29 @@
+{
+  "name": "@chillapi/sample",
+  "version": "1.0.0",
+  "description": "Sample Application made with ChillAPI framework",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chillapi/sample.git"
+  },
+  "keywords": [
+    "ChillAPI",
+    "OpenAPI",
+    "REST"
+  ],
+  "author": "Valentin Raduti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chillapi/sample/issues"
+  },
+  "homepage": "https://github.com/chillapi/sample#readme",
+  "dependencies": {
+    "@chillapi/core":"^1.0.14",
+    "@chillapi/stub": "1.0.6"
+  }
+}
